@@ -27,4 +27,4 @@ Every player on each turn can do one of the following moves:
 * switch a tile in place with another one not yet used
 * remove a tile (not sure, maybe remove is possible but not for more turns in a row and/or the previous played didn't do the same? TBD).
 
-It isn't possible to remove or switch the tile placed during the latest turn.
+It's not possible to remove or switch the tile placed during the latest turn.
