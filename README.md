@@ -15,6 +15,7 @@ Take 4 of the 6 internal tiles and connect them in a 2x2 square and then try to 
 
 ### Save and share solutions
 Every tile has a letter-number pair on its sides each one with a different orientation. When a solution is found it's possible to save and share it copying the top pair of each tile from top-left to bottom right.
+The same solution can be written in 4 different ways depending by the orientation.
 #### Example:
 ![Solution](https://user-images.githubusercontent.com/6410629/176885883-dfcf9bc9-71ad-4136-93d7-332a11faa812.jpg)
 A1 J1 E1 B4 I2 Q3 N4 L4 G2 M1 R1 H4 C2 K3 F3 D3
@@ -26,11 +27,9 @@ Be the one who place the last tile that completes the square
 
 ### How to play
 
-(Share out the tiles between/among the players or single pile?)
-
 Every player on each turn can do one of the following moves: 
 * place a tile (whatever or only a tile that connects with another already in place?)
-* switch a tile in place with another one (from the common pile? from own pile?)
-* remove a tile (not sure, maybe remove is possible but not for more turns in a row and/or the previous played didn't do the same? TBD).
+* switch a tile in place with another one
+* remove a tile (not sure, but anyway it's not possible to remove a tile if a tile was already removed during previous 2 turns - one turn per player -).
 
 It's not possible to remove or switch the tile placed by the previous player.
