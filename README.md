@@ -1,4 +1,4 @@
-# Jiguzle
+# Jigzle
 A game about jigsaw
 
 ## Background
@@ -6,7 +6,7 @@ The game is based on jigsaw tiles. There are only 18 unique and legal jigsaw til
 There are 4 corner tiles, 8 Edge tiles and 6 internal tiles. With those tiles it's possible to build many 4x4 squared frames and then fill them with 4 of the 6 internal tiles.
 
 ## Preparation
-Print the content of jiguzle.png on an A4 paper and stick it on a cardboard (or better a pasteboard) and then cut tiles out.
+Print the content of jigzle.png on an A4 paper and stick it on a cardboard (or better a pasteboard) and then cut tiles out.
 
 ## Solo rules
 
